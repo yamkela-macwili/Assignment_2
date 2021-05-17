@@ -1,4 +1,5 @@
 //ProgrammingIsFunApp.java
+package assign2;
 import javax.swing.JOptionPane;
 public class ProgrammingIsFunApp {
 	
